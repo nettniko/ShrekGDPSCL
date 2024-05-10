@@ -5,9 +5,13 @@
         "link": "https://www.youtube.com/@n3ttniko"
     },
     {
-        "role": "admin",
+        "role": "owner",
         "name": "GDzoey",
         "link": "https://www.youtube.com/@GDzoey"
     },
-
+    {
+        "role": "moderator",
+        "name": "Coding Bug",
+        "link": "https://www.youtube.com/channel"
+    }
 ]
