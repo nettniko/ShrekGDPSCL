@@ -106,13 +106,10 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                      The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                      </p>
+                      <p>
+                      The recording must also show the player hit the endwall, and display end stats, or the completion will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes
@@ -121,7 +118,13 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    Top 1 levels cannot be over the difficulty of Bloodbath. this rule is put in place to make sure the top levels arent vastly more difficult than the others. (This rule is subject to change once a new top 1 comes out)
+                    </p>
+                    <p>
+                    Reuploaded levels that are top 1 cannot be placed. This rule is in place to make sure the list doesnt have a million top 5s placed at the same time. This is effective as of August 13th, 2023.
+                    </p>
+                    <p>
+                    Levels that have a verifier outside of the server cannot be placed, but people inside the server that do beat it can make the level eligible to be placed.
                     </p>
                 </div>
             </div>
