@@ -8,8 +8,11 @@
     "percentToQualify": 54,
     "difficulty": "NA",
     "records": [
-      
-            
-      
+      {
+            "user": "niko",
+            "link": "https://youtu.be/7jiEKqQfDAQ",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
