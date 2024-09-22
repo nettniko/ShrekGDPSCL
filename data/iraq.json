@@ -8,8 +8,11 @@
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [
-      
-            
-      
+      {
+            "user": "Mintium",
+            "link": "https://youtu.be/ynJfhz-9UV8",
+            "percent": 100,
+            "hz": 120
+      }
     ]
 }
