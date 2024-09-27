@@ -9,10 +9,17 @@
     "difficulty": "NA",
     "records": [
       {
+            "user": "pengon2",
+            "link": "https://youtu.be/NZT015jkDUA",
+            "percent": 100,
+            "hz": 120
+        },
+        
+      {
             "user": "Mintium",
             "link": "https://youtu.be/ynJfhz-9UV8",
             "percent": 100,
             "hz": 120
-      }
+        }
     ]
 }
