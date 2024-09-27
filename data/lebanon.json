@@ -1,15 +1,18 @@
 {
     "name": "lebanon",
-    "author": "pengyon",
+    "author": "pengon2",
     "creators": [],
-    "verifier": "pengyon",
+    "verifier": "pengon2",
     "verification": "https://youtu.be/xSrYWPI1b4M",
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [
-      
-            
-      
+      {
+            "user": "niko",
+            "link": "https://youtu.be/02CFvsNPmHI",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
