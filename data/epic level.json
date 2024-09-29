@@ -1,7 +1,7 @@
 {
     "name": "epic level",
-    "author": "Mintium",
-    "creators": [],
+    "author": "niko",
+    "creators": ["niko", "Mintium"],
     "verifier": "Mintium",
     "verification": "https://youtu.be/v_vKO4EKt9s",
     "password": "Locked with Password",
