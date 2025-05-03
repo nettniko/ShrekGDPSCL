@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [
+      {
+            "user": "FORM",
+            "link": "https://youtu.be/z7Hvvnbh6RA",
+            "percent": 100,
+            "hz": 120
+      }
     ]
-    }
+}
