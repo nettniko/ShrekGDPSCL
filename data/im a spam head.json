@@ -7,6 +7,11 @@
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
-    "records": [  
+    "records": [
+      {
+            "user": "mango67",
+            "link": "https://streamable.com/fvtg2s",
+            "percent": 100,
+            "hz": 120
+      }
     ]
-    }
