@@ -8,8 +8,11 @@
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [
-      
-            
-      
+      {
+            "user": "pengon2",
+            "link": "https://youtu.be/NNEsoZV1n4s?si=42Ii_2XvucytmJF3",
+            "percent": 100,
+            "hz": 120
+      }
     ]
 }
