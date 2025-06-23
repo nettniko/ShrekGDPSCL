@@ -7,6 +7,12 @@
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
-    "records": [  
+    "records": [
+      {
+            "user": "barts0",
+            "link": "https://youtu.be/I0TWNTbDPhk",
+            "percent": 100,
+            "hz": 120
+        }
     ]
-    }
+}
