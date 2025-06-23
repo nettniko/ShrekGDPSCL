@@ -7,7 +7,13 @@
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
-    "records": [  
+    "records": [
+      {
+            "user": "lucas.",
+            "link": "https://youtu.be/9rb6pW9JUFg",
+            "percent": 100,
+            "hz": 120
+      }
     ]
-    }
+}
 
