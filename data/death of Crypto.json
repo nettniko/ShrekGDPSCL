@@ -7,6 +7,12 @@
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
-    "records": [  
+       "records": [
+      {
+            "user": "zoewithoutwhy",
+            "link": "https://youtu.be/mNUQRwPIcV0",
+            "percent": 100,
+            "hz": 120
+        },
     ]
-    }
+}
