@@ -7,6 +7,12 @@
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
-    "records": [  
+    "records": [
+      {
+            "user": "fidw",
+            "link": "https://www.youtube.com/watch?v=2ugouPp5oRM&ab_channel=towers",
+            "percent": 100,
+            "hz": 120
+        }
     ]
-    }
+}
