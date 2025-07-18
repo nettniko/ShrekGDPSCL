@@ -8,5 +8,12 @@
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [
+      {
+            "user": "fidw",
+            "link": "https://www.youtube.com/watch?v=jz48bEoyZG4&ab_channel=towers",
+            "percent": 100,
+            "hz": 120
+      }
     ]
-    }
+}
+    
