@@ -112,10 +112,13 @@ export default {
                       The recording must also show the player hit the endwall, and display end stats, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes</p>
                     </p>
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
+                    </p>
+                    <p>
+                        Levels on the list that are top 15 and above require clicks.
                     </p>
                     <p>
                     Top 1 levels cannot be re-uploaded from another GDPS or from main GD. This is to ensure originially made top 1s
