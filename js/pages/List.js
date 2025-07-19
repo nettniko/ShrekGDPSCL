@@ -118,7 +118,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                    Top 1 levels cannot be over the difficulty of Bloodbath. this rule is put in place to make sure the top levels arent vastly more difficult than the others. (This rule is subject to change once a new top 1 comes out)
+                    Top 1 levels cannot be re-uploaded from another GDPS or from main GD. This is to ensure originially made top 1s
                     </p>
                     <p>
                     Reuploaded levels that are top 1 cannot be placed. This rule is in place to make sure the list doesnt have a million top 5s placed at the same time. This is effective as of August 13th, 2023.
