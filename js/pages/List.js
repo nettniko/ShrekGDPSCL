@@ -86,7 +86,7 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Website layout made by <a href="https://drollface.dk/" target="_blank">Don Cheadle</a></p>
+                        <p class="type-label-md">Website layout made by <a href="https://trollface.dk/" target="_blank">Don Cheadle</a></p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
