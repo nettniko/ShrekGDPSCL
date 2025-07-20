@@ -7,6 +7,13 @@
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
-    "records": [  
+    "records": [
+      {
+            "user": "fidw",
+            "link": "https://www.youtube.com/watch?v=PXgC8pcKDCo&ab_channel=Fid.",
+            "percent": 100,
+            "hz": 120
+      }
     ]
-    }
+}
+    
