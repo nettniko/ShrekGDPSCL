@@ -26,6 +26,12 @@
             "link": "https://youtu.be/e61-1wpqKUs",
             "percent": 100,
             "hz": 5758459
-        }
+       },
+    {
+            "user": "fidw",
+            "link": "https://www.youtube.com/watch?v=2gGpvQcV_KM&ab_channel=towers",
+            "percent": 100,
+            "hz": 120
+      }
     ]
 }
