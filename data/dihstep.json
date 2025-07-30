@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [  
+       {
+            "user": "rafix",
+            "link": "https://youtu.be/tWxCQYdKZQg",
+            "percent": 100,
+            "hz": 120
+      }
     ]
-    }
+}
