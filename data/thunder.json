@@ -2,17 +2,11 @@
     "name": "thunder",
     "author": "Aqqle",
     "creators": [],
-    "verifier": "mango67",
-    "verification": "https://youtu.be/JbqYOH12RFo",
+    "verifier": "lucas.",
+    "verification": "https://youtu.be/pmvcDECipV8",
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [
-      {
-            "user": "lucas.",
-            "link": "https://youtu.be/pmvcDECipV8",
-            "percent": 100,
-            "hz": 120
-      }
     ]
 }
