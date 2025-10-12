@@ -8,11 +8,5 @@
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [
-      {
-            "user": "barts0",
-            "link": "https://www.youtube.com/watch?v=1S2LHeKkXoE",
-            "percent": 100,
-            "hz": 120
-      }
     ]
 }
