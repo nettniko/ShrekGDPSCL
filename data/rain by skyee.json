@@ -7,6 +7,12 @@
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
-    "records": [  
+    "records": [
+            {
+            "user": "fidw",
+            "link": "https://www.youtube.com/watch?v=TtSESCQu1Nc",
+            "percent": 100,
+            "hz": 120
+      }
     ]
     }
