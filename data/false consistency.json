@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=PXgC8pcKDCo&ab_channel=Fid.",
             "percent": 100,
             "hz": 120
+      },
+    {
+            "user": "barts0",
+            "link": "https://youtu.be/MlSx3YxRXtU",
+            "percent": 100,
+            "hz": 120
       }
     ]
 }
