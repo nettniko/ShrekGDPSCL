@@ -2,11 +2,26 @@
     {
         "name": "Top 1 Pack",
         "points": 300,
-        "levels": []
+        "levels": [100000, 100001, 100002, 100003]
     },
     {
         "name": "Iraq Pack",
         "points": 150,
+        "levels": []
+    },
+    {
+        "name": "9 Circles Pack",
+        "points": 150,
+        "levels": []
+    },
+    {
+        "name": "Dylpnaner Pack",
+        "points": 250,
+        "levels": []
+    },
+    {
+        "name": "Josh Spinoff Pack",
+        "points": 50,
         "levels": []
     }
 ]
