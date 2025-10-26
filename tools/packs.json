@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Josh Pack",
+        "points": 50,
+        "levels": [100000, 100001, 100002, 100003]
+    },
+    {
+        "name": "Shrek Pack",
+        "points": 100,
+        "levels": []
+    },
+    {
+        "name": "9 Circles Pack",
+        "points": 150,
+        "levels": []
+    },
+    {
+        "name": "Josh Spinoff Pack",
+        "points": 50,
+        "levels": []
+    }
+]
