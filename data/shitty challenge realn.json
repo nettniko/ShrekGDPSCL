@@ -7,6 +7,12 @@
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
-    "records": [  
+    "records": [
+      {
+            "user": "barts0",
+            "link": "https://medal.tv/games/geometry-dash/clips/lt1g0yuvXEPsacX4u?invite=cr-MSxaUEksNDExMTQ3ODI3&v=21",
+            "percent": 100,
+            "hz": 120
+      }
     ]
-    }
+}
