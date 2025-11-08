@@ -7,6 +7,12 @@
     "password": "Locked with Password",
     "percentToQualify": 100,
     "difficulty": "NA",
-    "records": [  
+    "records": [
+      {
+            "user": "ChristianGDoof",
+            "link": "https://youtu.be/ot6SvQu5d5I?si=8YbAP_SP7vumHkeB",
+            "percent": 100,
+            "hz": 120
+      }
     ]
-    }
+}
