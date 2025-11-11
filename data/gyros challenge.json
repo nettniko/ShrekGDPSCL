@@ -8,5 +8,9 @@
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [  
+            "user": "fidw",
+            "link": "https://www.youtube.com/watch?v=y05HF72iEYk",
+            "percent": 100,
+            "hz": 120
     ]
     }
