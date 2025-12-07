@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=y05HF72iEYk",
             "percent": 100,
             "hz": 120
-            }
+            },
+                       {
+            "user": "dxst",
+            "link": "https://youtu.be/J47eUhDCzls",
+            "percent": 100,
+            "hz": 240
+      }
     ]
 }
