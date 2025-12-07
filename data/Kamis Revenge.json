@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [  
+                               {
+            "user": "dxst",
+            "link": "https://youtu.be/TsiNrH6F8yc",
+            "percent": 100,
+            "hz": 240
+      }
     ]
     }
