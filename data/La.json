@@ -9,19 +9,19 @@
     "percentToQualify": 100,
     "difficulty": "NA",
     "records": [  
-            {
+        {
             "user": "Pokey",
             "link": "https://youtu.be/7m3Zxth_gus",
             "percent": 100,
             "hz": 360
         },
-                    {
+        {
             "user": "Kiwi",
             "link": "https://www.youtube.com/watch?v=TTxAwOPaRWQ",
             "percent": 100,
             "hz": 360
         },
-                     {
+        {
             "user": "dxst"
             "link": "https://www.youtube.com/watch?v=rqNXGJ1riLM",
             "percent": 100,
